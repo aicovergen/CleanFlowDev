@@ -1,0 +1,3 @@
+[submodule "CleanFlowDev"]
+	path = CleanFlowDev
+	url = https://github.com/aicovergen/CleanFlowDev/branches
